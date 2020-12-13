@@ -13,7 +13,7 @@
 2. Facebook: Prince Codes 247
 3. Twitter: @prince_codes247
 - ⚡ Fun facts: I'm an electrical electronics engineering student,
-I'ma leftie 😅
+I'ma leftie😅, I prefer working on the Frontend.
 <!--
 **princecodes247/princecodes247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
