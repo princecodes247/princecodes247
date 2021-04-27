@@ -3,15 +3,16 @@
 ### Currently a full stack developer
 
 
-- 🔭 I’m currently working on my Portfolio
-- 🌱 I’m currently learning Typescript and GraphQL
+- 🔭 I’m currently working on my Portfolio and my youtube channel
+- 🌱 I’m currently learning Typescript, Vue, Flutter and GraphQL
 - 👯 I’m looking to collaborate on building a social network for students
 - 🤔 I’m looking for help with UI designs
-- 💬 Ask me about anything tech related
+- 💬 Ask me about anything tech related or if you need help on your projects
 - 📫 How to reach me: 
 1. Email: princecodes247@gmail.com
 2. Facebook: Prince Codes 247
 3. Twitter: @prince_codes247
+4. LinkedIn: Prince Codes
 - ⚡ Fun facts: I'm an electrical electronics engineering student,
 I'ma leftie😅, I prefer working on the Frontend.
 <!--
