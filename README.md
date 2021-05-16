@@ -3,8 +3,9 @@
 ### Currently a full stack developer
 
 
-- 🔭 I’m currently working on my Portfolio and my youtube channel
-- 🌱 I’m currently learning Typescript, Vue, Flutter and GraphQL
+- 🔭 I’m currently working on my Portfolio and my youtube channel.
+- 📖 I’m currently writing exams.
+- 🌱 I’m currently learning Svelte, Typescript, Vue, Flutter and GraphQL
 - 👯 I’m looking to collaborate on building a social network for students
 - 🤔 I’m looking for help with UI designs
 - 💬 Ask me about anything tech related or if you need help on your projects
