@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### I'm Prince Gbalam (Prince Codes), i'm a Tech Enthusiast. 
-### Currently a full stack developer
-
+### Currently a web developer
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=princecodes247&count_private=true&theme=tokyonight&showicons=true)]()
 
 - 🔭 I’m currently working on my Portfolio and my youtube channel.
 - 📖 I’m currently writing exams.
@@ -31,8 +31,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=princecodes247&count_private=true&theme=tokyonight&showicons=true)]()
+[https://github-profile-trophy.vercel.app/?username=princecodes247]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=princecodes247&langs_count=8&theme=tokyonight)]()
 
