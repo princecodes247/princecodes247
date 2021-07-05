@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[https://github-profile-trophy.vercel.app/?username=princecodes247]()
+<img width="600" src="https://github-profile-trophy.vercel.app/?username=NzakiCodes&rank=SS,S,AAA,AA,A,B,C&row=1&column=5"/>
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=princecodes247&langs_count=8&theme=tokyonight)]()
 
