@@ -1,21 +1,29 @@
 ## Hi there 👋
-### I'm Prince Gbalam (Prince Codes), i'm a Tech Enthusiast. 
-### Currently a web developer
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=princecodes247&count_private=true&theme=tokyonight&showicons=true)]()
+### I'm Prince Gbalam (Prince Codes), I'm a software developer. 
+### I make 1s and 0s move
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=princecodes247&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on my Portfolio and my youtube channel.
-- 📖 I’m on a break from school (thanks to ASUU Nieria)
-- 🌱 I’m currently learning Solidity
-- 🎟 I’m interested in Web3 and Cybersecurity
-- 👯 I’m looking to collaborate on building cool projects with anyone
-- 💬 Ask me about anything tech related or if you need help on your projects
-- 📫 How to reach me: 
-1. Email: princecodes247@gmail.com
-2. Facebook: Prince Codes 247
-3. Twitter: @prince_codes247
-4. LinkedIn: Prince Codes
-- ⚡ Fun facts: I'm an electrical electronics engineering student,
-I'ma leftie😅, I prefer working on the Backend.
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=princecodes247&count_private=true&theme=tokyonight&showicons=true)]()
+<br/>
+<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=princecodes247&label=Profile%20views&color=0e75b6&style=flat" alt="princecodes247" /> </p>
+<ul>
+  <li>🔭 I’m currently working on my Portfolio and my youtube channel.</li>
+  <li>📖 I’m on a break from school (thanks to ASUU Nieria)</li>
+  <li>🌱 I’m currently learning Solidity</li>
+  <li>🎟 I’m interested in Web3 and Cybersecurity</li>
+  <li>💬 Ask me about anything tech related or if you need help on your projects</li>
+  <li>
+    📫 How to reach me: 
+    <ol>
+      <li>Email: princecodes247@gmail.com</li>
+      <li>Facebook: Prince Codes 247</li>
+      <li>Twitter: @prince_codes247</li>
+      <li>LinkedIn: Prince Codes</li>
+    </ol>
+  </li>
+</ul>
+⚡ Fun facts: I'ma leftie😅, I prefer working on the Backend.
 <!--
 **princecodes247/princecodes247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
