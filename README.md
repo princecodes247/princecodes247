@@ -1,6 +1,7 @@
 ## Hi there 👋
 ### I'm Prince Gbalam (Prince Codes), I'm a software developer. 
 ### I make 1s and 0s move
+![](https://hit.yhype.me/github/profile?user_id=70610428)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=princecodes247&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=princecodes247&count_private=true&theme=tokyonight&showicons=true)]()
@@ -23,20 +24,8 @@
     </ol>
   </li>
 </ul>
+
 ⚡ Fun facts: I'ma leftie😅, I prefer working on the Backend.
-<!--
-**princecodes247/princecodes247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=princecodes247&langs_count=8&theme=tokyonight)]()
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princecodes247&langs_count=8&theme=tokyonight"/></p>
 
