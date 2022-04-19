@@ -78,12 +78,8 @@ style="vertical-align:top; margin: 4px">
 style="vertical-align:top; margin: 4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png" alt="cpp" height="40"
 style="vertical-align:top; margin: 4px">
-  
-  
-  
 
 </p>
-![](https://hit.yhype.me/github/profile?user_id=70610428)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princecodes247&label=Profile%20views&color=0e75b6&style=flat" alt="princecodes247" /> </p>
 
