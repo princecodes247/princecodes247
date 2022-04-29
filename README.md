@@ -20,7 +20,7 @@
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=princecodes247&theme=onedark"/></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=princecodes247&count_private=true&theme=tokyonight&showicons=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=princecodes247&theme=dark"/></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=princecodes27&theme=dark"/></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princecodes247&langs_count=8&theme=tokyonight"/></p>
 
