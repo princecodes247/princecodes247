@@ -1,7 +1,6 @@
 <h1 align="center">Prince Gbalam (Prince Codes)</h1>
-<h2 align="center"><b>I’m a software Developer</b></h2>
+<h2 align="center"><b>I’m a Full Stack Web3 Developer</b></h2>
 <ul>
-  <li>👀 Full Stack Web3 Developer</li>
   <li>🔭 I write articles on learning tech.</li>
   <li>📖 I’m currently into block chain, with Solidity</li>
   <li>🌱 I’m currently learning Flutter on the side</li>
@@ -20,10 +19,10 @@
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=princecodes247&theme=onedark"/></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=princecodes247&count_private=true&theme=tokyonight&showicons=true"/>
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=princecodes247&theme=dark"/> -->
-<!-- </p> -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=princecodes247&theme=dark"/>
+</p>
 
-<!-- <p align="center"> -->
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princecodes247&langs_count=8&theme=tokyonight"/></p>
 
 
