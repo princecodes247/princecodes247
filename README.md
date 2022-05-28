@@ -19,7 +19,7 @@
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=princecodes247&theme=onedark"/></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=princecodes247&count_private=true&theme=tokyonight&showicons=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=princecodes247&theme=dark"/>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=princecodes247&theme=dark"/> -->
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=princecodes247&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="Codersrank" height="40" style="vertical-align:top; margin:4px">
 
-<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=princecodes247&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=princecodes247&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- ![](./profile-3d-contrib/profile-night-green.svg) -->
 
 
