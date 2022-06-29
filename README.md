@@ -30,7 +30,7 @@
 
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=princecodes247&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="Codersrank" height="40" style="vertical-align:top; margin:4px">
 
-<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=princecodes247&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+[![Prince github activity graph](https://activity-graph.herokuapp.com/graph?username=princecodes247&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![](./profile-3d-contrib/profile-night-green.svg)
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{princecodes247}1212%2Fhit-counter" alt="counter" style="vertical-align:top; margin:4px">
 
