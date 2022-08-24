@@ -3,7 +3,7 @@
 <ul>
   <li>🔭 I write articles on learning tech.</li>
   <li>📖 I’m currently into block chain, with Solidity</li>
-  <li>🌱 I’m currently learning Flutter on the side</li>
+  <li>🌱 I’m currently learning React Native on the side</li>
   <li>🎟 I’m interested in Web3 and Cybersecurity</li>
   <li>💬 Ask me about anything tech related especially on JavaScript</li>
   <li>
