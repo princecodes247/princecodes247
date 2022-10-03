@@ -22,10 +22,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=princecodes247&theme=dark"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princecodes247&langs_count=8&theme=tokyonight"/></p>
-
-
 ![](https://komarev.com/ghpvc/?username=princecodes247&color=green)
 
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=princecodes247&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="Codersrank" height="40" style="vertical-align:top; margin:4px">
