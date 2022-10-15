@@ -1,5 +1,5 @@
 <h1 align="center">Prince Gbalam (Prince Codes)</h1>
-<h2 align="center"><b>I’m a Full Stack Web3 Developer</b></h2>
+<h2 align="center"><b>I’m an awesome Software Developer</b></h2>
 <ul>
   <li>🔭 I write articles on learning tech.</li>
   <li>📖 I’m currently into backend architecture and blockchain technologies</li>
