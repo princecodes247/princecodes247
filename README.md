@@ -2,7 +2,7 @@
 <h2 align="center"><b>I’m a Full Stack Web3 Developer</b></h2>
 <ul>
   <li>🔭 I write articles on learning tech.</li>
-  <li>📖 I’m currently into block chain, with Solidity</li>
+  <li>📖 I’m currently into backend architecture and blockchain technologies</li>
   <li>🌱 I’m currently learning React Native on the side</li>
   <li>🎟 I’m interested in Web3 and Cybersecurity</li>
   <li>💬 Ask me about anything tech related especially on JavaScript</li>
