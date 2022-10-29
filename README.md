@@ -3,8 +3,6 @@
 <ul>
   <li>🔭 I write articles on learning tech.</li>
   <li>📖 I’m currently into backend architecture and blockchain technologies</li>
-  <li>🌱 I’m currently learning React Native on the side</li>
-  <li>🎟 I’m interested in Web3 and Cybersecurity</li>
   <li>💬 Ask me about anything tech related especially on JavaScript</li>
   <li>
     📫 How to reach me: 
