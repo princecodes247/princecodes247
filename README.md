@@ -1,18 +1,18 @@
 <h1 align="center">Prince Gbalam (Prince Codes)</h1>
-<h2 align="center"><b>I’m an awesome Software Developer</b></h2>
-<ul>
-  <li>🔭 I write articles on learning tech.</li>
-  <li>📖 I’m currently into backend architecture and blockchain technologies</li>
-  <li>💬 Ask me about anything tech related especially on JavaScript</li>
-  <li>
-    📫 How to reach me: 
-    <ol>
-      <li>Email: princecodes247@gmail.com</li>
-      <li>Twitter: @princecodes247</li>
-      <li>LinkedIn: Prince Gbalam</li>
-    </ol>
-  </li>
-</ul>
+
+
+<p>I'm a software developer with a passion for building software, writing code, and shipping products. I have a lot of experience in building and shipping products.</p>
+<p>
+With valuable skills and the capacity to build Full Stack and Web 3 applications, I have the ability to bring projects to life with beautiful design & functionality. I'm also capable of maintaining high levels of productivity when working independently on projects or with a team of developers. As a Software Developer, I have been tasked to build a series of applications that include both front-end and back-end components. I always follow established practices and best practices to ensure that everything goes as expected.
+</p>
+
+<br/>
+<p>📫 How to reach me:</p>
+<ol>
+  <li>Email: princecodes247@gmail.com</li>
+  <li>Twitter: @princecodes247</li>
+  <li>LinkedIn: Prince Gbalam</li>
+ </ol>
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=princecodes247&count_private=true&theme=tokyonight&showicons=true"/>
