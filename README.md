@@ -8,9 +8,8 @@
     📫 How to reach me: 
     <ol>
       <li>Email: princecodes247@gmail.com</li>
-      <li>Facebook: Prince Codes 247</li>
-      <li>Twitter: @prince_codes247</li>
-      <li>LinkedIn: Prince Codes</li>
+      <li>Twitter: @princecodes247</li>
+      <li>LinkedIn: Prince Gbalam</li>
     </ol>
   </li>
 </ul>
