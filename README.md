@@ -1,4 +1,4 @@
-<h1 align="center">Prince Gbalam (Prince Codes)</h1>
+<h1 align="center">Prince Gbalam</h1>
 
 
 <p>I'm a software developer with a passion for building software, writing code, and shipping products. I have a lot of experience in building and shipping products.</p>
