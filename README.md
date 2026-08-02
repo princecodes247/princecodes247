@@ -12,11 +12,11 @@ I'm a software developer passionate about building scalable products. I focus on
 
 ---
 
-### 📫 Let's Connect
+### 📫 Reach Me
 
 - **Email:** [princecodes247@gmail.com](mailto:princecodes247@gmail.com)
 - **Twitter/X:** [@princecodes247](https://twitter.com/princecodes247)
-- **LinkedIn:** [Prince Gbalam](https://linkedin.com/in/prince-gbalam)
+- **LinkedIn:** [Prince Gbalam](https://linkedin.com/in/princegbalam)
 
 ---
 
